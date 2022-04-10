@@ -1,4 +1,4 @@
-# PseudoRandomnessGenerators
+# PseudoRandomness
 
 Pseudo-random Bits Generators
 -
